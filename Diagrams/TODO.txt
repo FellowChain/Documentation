@@ -1,0 +1,10 @@
+Flow Charts:
+
+1) KYC of people registering new Cooperative
+2) Adding New Users to cooperative (who accepts them, how KYC is processed?)
+3) Funds Flow from system user dues (Cooperative operational Fund, Claims Fund, Global Budget)
+4) Claim Approval/Rejection Flow. 
+4.1) Users Voting Logic
+5) Arbitration of other Cooperatives (that need to be carefully thought throught to secure independence)
+6) User refund when leaving cooperative (dependent on having any approved claims?)
+7) Cooperative Management (% fee change, dues amount change, statut change)
